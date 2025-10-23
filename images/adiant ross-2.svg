@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 1010">
+	<g id="Cross-19">
+		<title>Radiant Cross (XIX), by Adam Stanislav</title>
+		<!-- The paths designed in Affinity Designer for Windows (Beta). -->
+
+		<path filter="url(#Retlif)" fill="url(#Rays)" d="m673.28 918.82l-79.719-166.32 28.866 139.59-53.552-132.1-25.301 5.032 1.079 142.54-26.751-140.01h-25.796l-26.751 140.01 1.079-142.54-25.301-5.032-53.552 132.1 28.866-139.59-63.707 132.91-14.259 11.016 54.133-153.8-78.294 119.12 55.544-131.28-142.64 190.27 121.2-204.6-100.03 101.55 80.087-117.92-177.02 158.78 158.78-177.02-117.92 80.087 101.55-100.03-204.6 121.2 190.27-142.64-131.28 55.544 119.12-78.294-182.56 64.255 8.049-9.175 164.64-78.913-139.59 28.866 132.1-53.552-5.032-25.301-142.54 1.079 140.01-26.751v-25.796l-140.01-26.751 142.54 1.079 5.032-25.301-132.1-53.552 139.59 28.866-164.32-78.763 17.013-0.394 157.18 55.324-119.12-78.294 131.28 55.544-190.27-142.64 204.6 121.2-101.55-100.03 117.92 80.087-158.78-177.02 177.02 158.78-80.087-117.92 100.03 101.55-121.2-204.6 142.64 190.27-55.544-131.28 78.294 119.12c-21.737-61.165-43.58-122.3-64.891-183.6-4.715-13.563 19.853 30.039 19.853 30.039l68.871 143.69-28.866-139.59 53.552 132.1 25.301-5.032-1.079-142.54 26.751 140.01h25.796l26.751-140.01-1.079 142.54 25.301 5.032 53.552-132.1-28.866 139.59c24.269-52.419 48.359-104.93 73.753-156.77 9.47-19.332 12.814-11.599 12.814-11.599l-62.734 178.24 78.294-119.12-55.544 131.28 142.64-190.27-121.2 204.6 100.03-101.55-80.087 117.92 177.02-158.78-158.78 177.02 117.92-80.087-101.55 100.03 204.6-121.2-190.27 142.64 131.28-55.544-119.12 78.294 159.99-56.311-19.11 17.352-131 62.792 139.59-28.866-132.1 53.552 5.032 25.301 142.54-1.079-140.01 26.751v25.796l140.01 26.751-142.54-1.079-5.032 25.301 132.1 53.552-139.59-28.866 154.97 74.279 11.299 11.55-176.14-61.996 119.12 78.294-131.28-55.544 190.27 142.64-204.6-121.2 101.55 100.03-117.92-80.087 158.78 177.02-177.02-158.78 80.087 117.92-100.03-101.55 121.2 204.6-142.64-190.27 55.544 131.28-78.294-119.12 55.684 158.2 0.202 17.984z"/>
+		<path filter="url(#Tifler)" fill="#A80" d="m484.63 484.63c-7.273-198.5-119.95-370.29-283.67-460.99l18.497-18.497c83.256 50.719 181.02 79.944 285.55 79.944 104.57 0 202.37-29.247 285.64-80h0.012l18.496 18.496c-163.78 90.687-276.5 262.5-283.78 461.05 198.54-7.238 370.38-119.93 461.09-283.68l18.497 18.496c-50.719 83.257-79.944 181.02-79.944 285.55 0 104.57 29.246 202.36 80 285.64v0.012l-18.496 18.495c-90.703-163.8-262.57-276.54-461.16-283.78 7.214 198.57 119.9 370.42 283.66 461.15l-18.496 18.496c-83.253-50.712-181.01-79.934-285.53-79.934-104.43 0-202.11 29.17-285.31 79.8l-18.489-18.488c163.63-90.763 276.22-262.55 283.44-461.02-198.52 7.249-370.34 119.93-461.05 283.66l-18.496-18.496c50.713-83.253 79.935-181.01 79.935-285.53 0-104.44-29.171-202.11-79.801-285.32l18.488-18.488c90.748 163.6 262.49 276.18 460.92 283.43l-0.003 0.004z"/>
+	</g>
+
+	<defs>
+		<radialGradient id="Rays" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(417.96 0 0 419.79 502.78 500.95)">
+			<stop stop-color="#E5F20D" offset="0"/>
+			<stop stop-color="#FFF" offset="1"/>
+		</radialGradient>
+
+		<!-- Filters added in Inkscape (though I changed their ids). -->
+
+		<filter id="Tifler" style="color-interpolation-filters:sRGB">
+			<feGaussianBlur stdDeviation="2.3" result="result0" in="SourceAlpha"/>
+			<feMorphology radius="6.6" result="result1" in="SourceAlpha"/>
+			<feGaussianBlur stdDeviation="8.9" in="result1"/>
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0" result="result91"/>
+			<feComposite operator="out" result="result2" in2="result91" in="result0"/>
+			<feGaussianBlur stdDeviation="1.7" result="result4"/>
+			<feDiffuseLighting surfaceScale="10">
+				<feDistantLight elevation="45" azimuth="225"/>
+			</feDiffuseLighting>
+			<feBlend mode="multiply" in2="SourceGraphic"/>
+			<feComposite operator="in" result="result3" in2="SourceAlpha"/>
+			<feSpecularLighting surfaceScale="5" specularExponent="17.9" in="result4">
+				<feDistantLight elevation="45" azimuth="225"/>
+			</feSpecularLighting>
+			<feComposite operator="atop" in2="result3"/>
+		</filter>
+
+		<filter id="Retlif" style="color-interpolation-filters:sRGB">
+			<feGaussianBlur stdDeviation="2.2" result="result1" in="SourceAlpha"/>
+			<feSpecularLighting specularConstant="2" result="result0" specularExponent="18.1" surfaceScale="5">
+				<feDistantLight elevation="24" azimuth="225"/>
+			</feSpecularLighting>
+			<feComposite operator="in" result="result6" in2="SourceAlpha"/>
+			<feMorphology operator="dilate" radius="5.7"/>
+			<feGaussianBlur stdDeviation="5.7" result="result11"/>
+			<feDiffuseLighting diffuseConstant="2" in="result1" surfaceScale="5" result="result3">
+				<feDistantLight elevation="25" azimuth="225"/>
+			</feDiffuseLighting>
+			<feBlend in="result3" result="result7" in2="SourceGraphic" mode="multiply"/>
+			<feComposite operator="in" result="result91" in2="SourceAlpha" in="result7"/>
+			<feBlend in="result6" result="result9" in2="result91" mode="lighten"/>
+			<feComposite in2="result9" in="result11"/>
+		</filter>
+	</defs>
+</svg>
