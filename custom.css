@@ -1,0 +1,22 @@
+/* 修复 Nexmoe 表格显示不全的问题，强制自动换行 */
+article > table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  overflow: visible !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+}
+
+article > table th,
+article > table td {
+  white-space: normal !important;
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+}
+
+td, th {
+  vertical-align: top;
+}
